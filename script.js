@@ -61,6 +61,7 @@ const selectItems = document.querySelectorAll("[data-select-item]");
 const selectValue = document.querySelector("[data-selecct-value]");
 const filterBtn = document.querySelectorAll("[data-filter-btn]");
 
+
 select.addEventListener("click", function () { elementToggleFunc(this); });
 
 // add event in all select items
@@ -157,3 +158,6 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
   });
 }
+
+
+

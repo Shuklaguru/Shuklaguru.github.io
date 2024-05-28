@@ -770,7 +770,7 @@
   }
   
   .timeline-list span {
-    color: rgb(199, 199, 62);
+    color: var(--vegas-gold);
     font-weight: var(--fw-200);
     line-height: 1.6;
   }

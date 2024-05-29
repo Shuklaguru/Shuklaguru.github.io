@@ -837,12 +837,10 @@
     font-size: var(--fs-8);
     background-color: var(--border-gradient-onyx);
     padding: 10px;
-    border-left: 1px solid  rgb(71, 71, 31);
+    border-left: 1px solid rgb(71, 71, 31);
     border-top: 1px solid rgb(71, 71, 31);
     border-radius: inherit;
     box-shadow: var(--shadow-1);
-   
-   
   }
   .icon-box::before{
     content: "";
